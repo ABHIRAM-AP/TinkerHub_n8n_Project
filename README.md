@@ -2,13 +2,12 @@
 
 ![Event Banner](./assets/banner.png)
 
-# Title: [Insert Project Name]
+# Title: AI Youtube PlayList Automator
 
 ---
 
 ### Team Members
-* **Member 1:** [Name / GitHub Link]
-* **Member 2:** [Name / GitHub Link]
+* **Member 1:** Abhiram A P (https://github.com/ABHIRAM-AP)
 
 ---
 
@@ -20,7 +19,15 @@
 ### How it Works?
 
 #### 1. Explaining the working of project
-[Describe the logic here.]
+This workflow allows users to enter a song and artist name in natural language (e.g., “Blinding Lights - The Weeknd”), and the system will:
+
+Extract the song name and artist
+
+Search YouTube for the most relevant video
+
+Extract the video ID
+
+Add the video to a specified YouTube playlist automatically
 
 #### 2. Embed video of project demo
 [Insert link to Video (Youtube/Drive)]
